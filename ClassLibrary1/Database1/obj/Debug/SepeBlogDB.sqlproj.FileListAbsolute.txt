@@ -1,0 +1,10 @@
+C:\Users\sepeg\source\repos\ClassLibrary1\Database1\bin\Debug\SepeBlogDB.dacpac
+C:\Users\sepeg\source\repos\ClassLibrary1\Database1\bin\Debug\Database1.dll
+C:\Users\sepeg\source\repos\ClassLibrary1\Database1\bin\Debug\Database1.pdb
+C:\Users\sepeg\source\repos\ClassLibrary1\Database1\obj\Debug\SepeBlogDB.sqlproj.AssemblyReference.cache
+C:\Users\sepeg\source\repos\ClassLibrary1\Database1\obj\Debug\Database1.dll
+C:\Users\sepeg\source\repos\ClassLibrary1\Database1\obj\Debug\Database1.pdb
+C:\Users\sepeg\source\repos\ClassLibrary1\Database1\obj\Debug\Model.xml
+C:\Users\sepeg\source\repos\ClassLibrary1\Database1\obj\Debug\refactor.xml
+C:\Users\sepeg\source\repos\ClassLibrary1\Database1\obj\Debug\postdeploy.sql
+C:\Users\sepeg\source\repos\ClassLibrary1\Database1\obj\Debug\predeploy.sql
